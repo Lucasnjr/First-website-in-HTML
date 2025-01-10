@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    text-align: justify;
+    height: 100%; /* Garantir que o body tenha altura 100% */
+    margin: 0; /* Remover margens padrão */
+    display: flex; /* Usar flexbox no body */
+    justify-content: center; /* Alinhar horizontalmente no centro */
+    align-items: center; /* Alinhar verticalmente no centro */
+    border-radius: 10px;
+}
+main{
+    justify-content: center;
+    background-color: white;
+    width: 1200px;
+    height: 50%;
+}
